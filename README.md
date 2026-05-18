@@ -45,7 +45,7 @@ The dashboard includes:
 
 # Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](SuperStoreAnalaysisDashboard.png)
 
 ---
 
