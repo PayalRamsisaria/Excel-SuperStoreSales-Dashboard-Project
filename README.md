@@ -45,7 +45,7 @@ The dashboard includes:
 
 # Dashboard Preview
 
-(Add screenshot here after upload)
+![Dashboard Preview](dashboard.png)
 
 ---
 
